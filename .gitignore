@@ -125,3 +125,6 @@ dmypy.json
 
 # VSCode config
 .vscode/
+
+# Mac service directories
+.DS_Store

@@ -1,0 +1,16 @@
+version: "2.2"
+services:
+  aerospike:
+    image: aerospike/aerospike-server
+    hostname: aerospike
+    container_name: aerospike
+    ports:
+      - "3000:3000"
+  amc:
+    image: aerospike/amc
+    depends_on:
+    - aerospike
+    hostname: amc
+    container_name: amc
+    ports:
+      - "8081:8081"
