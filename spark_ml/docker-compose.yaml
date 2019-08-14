@@ -1,0 +1,10 @@
+version: '2'
+services:
+  jupyter-local:
+    image: jupyter/all-spark-notebook
+    ports:
+      - 8888:8888
+      - 4040:4040
+      - 4041:4041
+    volumes:
+      - ./notebooks:/home/jovyan/work
