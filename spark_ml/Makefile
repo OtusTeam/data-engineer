@@ -1,2 +1,2 @@
-run-jupyter:
+run-jupyter: 
 	docker-compose up
