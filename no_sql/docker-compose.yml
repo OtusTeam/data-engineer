@@ -1,16 +1,23 @@
-version: "2.2"
+version: "3"
 services:
-  aerospike:
+  db:
+    container_name: db
     image: aerospike/aerospike-server
-    hostname: aerospike
-    container_name: aerospike
     ports:
       - "3000:3000"
   amc:
+    container_name: amc
     image: aerospike/amc
     depends_on:
-    - aerospike
-    hostname: amc
-    container_name: amc
+    - db
     ports:
       - "8081:8081"
+  client:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    entrypoint: /bin/bash
+    tty: true
+    container_name: client
+    volumes:
+      - ./scripts:/root
