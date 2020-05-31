@@ -51,7 +51,7 @@ Stream должен содержать следующие поля: createdat, c
 
 Приложите полный ответ на предыдущий запрос к ответу на задание.
 
-- В KSQL CLI получите текущую статистику WIKIPEDIANOBOT: descrbie extended wikipedianobot;  
+- В KSQL CLI получите текущую статистику WIKIPEDIANOBOT: describe extended wikipedianobot;  
 
 Приложите раздел Local runtime statistics к ответу на задание.  
 Почему для wikipedianobot интерфейс показывает также consumer-* метрики?
