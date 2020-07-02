@@ -34,6 +34,7 @@
 | Разработка приложения Kafka Input Handler, загрузка данных в первичный слой платформы по работе с большими данными | Дмитрий Габидуллин | https://github.com/dgabidullin/kih |
 | Реализация элементов Raw-слоя Data Lake на примере загрузки данных Wikipedia Stream с помощью Kafka & Airflow в S3 Object Storage | Михаил Сеткин | https://gitlab.com/msetkin/otus_thesis_project |
 | F1 Retrospective DB - Анализ гонок серии Формула 1 | Алексей Шевелев | https://github.com/Shevelsm/f1-retrospective-data |
+| "Потоковая обработка данных о движении ИСЗ" | Морозова Мария Николаевна | https://github.com/MorozovaMariya/de_diplom |
 
 
 ## DE-2019-11
