@@ -56,17 +56,3 @@
 | Система выполнения моделей машинного обучения на потоке событий | Алексей Стариков | https://github.com/axreldable/otus_data_engineer_2019_11_starikov/tree/master/final-project |
 | Wikipedia event stream processing | Артем Тарасюк |  |
 | Загрузка и обработка лог файлов Enterptise APP | Юрий Шилин |  |
-
-
-## DE-2020-02
-
-
-| Тема  | Автор | Ссылка |
-| ----- | ----- |------- |
-| Система анализа продаж с использованием машинного обучения | Петухов Павел | https://github.com/Paul4850/data-engineer/tree/master/ClickSales |
-| Анализ сезонных факторов, влияющих на рынок аренды велосипедов | Евстафьев Андрей | https://github.com/achicha/otus-de-2020-02/tree/master/final_project |
-| Разработка приложения Kafka Input Handler | Дмитрий Габидуллин | https://github.com/dgabidullin/kih |
-| Потоковая обработка данных о движении ИСЗ | Морозова Мария | https://github.com/MorozovaMariya/de_diplom |
-| Ретроспективные данные гонок класса Формула 1 | Шевелев Алексей | https://github.com/Shevelsm/f1-retrospective-data |
-| Обработка и отслеживание данных о телепросмотре | Бурнаева Ольга | https://github.com/oliallburn/otus_diploma/ |
-| Реализация элементов Raw-слоя Data Lake на примере загрузки данных Wikipedia Stream | Сеткин Михаил | https://gitlab.com/msetkin/otus_thesis_project |
