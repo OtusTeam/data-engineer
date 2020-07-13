@@ -33,7 +33,12 @@
 | ----- | ----- |------- |
 | Разработка приложения Kafka Input Handler, загрузка данных в первичный слой платформы по работе с большими данными | Дмитрий Габидуллин | https://github.com/dgabidullin/kih |
 | Реализация элементов Raw-слоя Data Lake на примере загрузки данных Wikipedia Stream с помощью Kafka & Airflow в S3 Object Storage | Михаил Сеткин | https://gitlab.com/msetkin/otus_thesis_project |
-| F1 Retrospective DB - Анализ гонок серии Формула 1 | Алексей Шевелев | https://github.com/Shevelsm/f1-retrospective-data |
+| Ретроспективные данные гонок класса Формула 1 | Алексей Шевелев | https://github.com/Shevelsm/f1-retrospective-data |
+| Сервис для прогнозирования курсов валют и анализа валютных сделок | Сергей Грибков | https://github.com/gribkov-s/Currency_trading_service |
+| Обработка и отслеживание данных о телепросмотре | Бурнаева Ольга | https://github.com/oliallburn/otus_diploma |
+| Потоковая обработка данных о движении ИСЗ | Морозова Мария | https://github.com/MorozovaMariya/de_diplom |
+| Анализ сезонных факторов, влияющих на рынок аренды велосипедов | Евстафьев Андрей | https://github.com/achicha/otus-de-2020-02/tree/master/final_project |
+| Система анализа продаж с использованием машинного обучения | Петухов Павел | https://github.com/Paul4850/data-engineer/tree/master/ClickSales |
 
 
 ## DE-2019-11
