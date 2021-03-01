@@ -26,6 +26,17 @@
 
 # Список проектных работ студентов
 
+## DE-2020-08
+
+| Тема  | Автор | Ссылка |
+| ----- | ----- |------- |
+| [Сбор и анализ скорости отдачи статики различными CDN на web страницах](https://docs.google.com/presentation/d/1ILXclhOjlSYGTEpMis5eMw7o0kYBRKFk1uXw2OjHa_E/edit#slide=id.p1) | Дмитрий Наседкин | https://github.com/dimitriin/website-static-performance |
+| [Система хранения и автоматического тестирования CV нейросетей](https://drive.google.com/file/d/1YCzRXTzr-aZQhaerXoV9aNGod4yOuqMw/view?usp=sharing) | Fedor Pesyak | https://github.com/Femmpitch/otus_project_cv_automatic_test |
+| [Веб-краулер](https://drive.google.com/file/d/1uAzmRqKkNsFAM1USEGT8KvgSm96BR_c0/view?usp=sharing) | Ruslan Ksalov | https://github.com/polosatyi/webcrawler |
+| [Аналитика упоминаний в новостных и RSS-лентах](https://drive.google.com/file/d/1jBaZE_OQNrBLiyb-FUtWGdsdfl7TxeLi/view?usp=sharing) | Николаев Николай | https://github.com/ninilich/Runus |
+| Cбор и хранение логов в ELK/Loki (Принята) | Михаил Кузнецов | |
+| Аналитическое решение для dirty.ru | Дмитрий Гудаков | |
+
 ## DE-2020-02
 
 
