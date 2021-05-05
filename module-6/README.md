@@ -28,16 +28,16 @@
 
 ## DE-2020-11
 
-| Тема  | Автор | Ссылка |
-| ----- | ----- |------- |
-| [Serverless решение для сбора статистики эффективности рекламных кампаний на GCP](https://drive.google.com/file/d/1G_dUpkUBI_mu4KzsHvH_XTAx8dHxvblA/view?usp=sharing) | Андрей Шейко |  |
-| [Визуализация геоданных проектов сервисного обслуживания]() | Анастасия Шемет |  |
+| Тема | Автор | Ссылка |
+| ---- | ----- | ------ |
+| [Serverless решение для сбора статистики эффективности рекламных кампаний на GCP](https://drive.google.com/file/d/1G_dUpkUBI_mu4KzsHvH_XTAx8dHxvblA/view?usp=sharing) | Андрей Шейко | |
+| [Визуализация геоданных проектов сервисного обслуживания]() | Анастасия Шемет | |
 | [Изучение набора данных в JupiterLab (PySpark), последующая загрузка и построение витрин в СУБД Vertica с помощью Data Build Tool, визуализация в Redash]() | Андрей Радченко | https://github.com/radchenkoam/OTUS-de-2020-11/blob/dev/homeworks/gw.md |
-| [Анализ химического состава лекарственных средств]() | Анна Воронина | https://github.com/PytUs/OTUS-2020-2021-month-1-ex.1-/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0 |
+| [Анализ химического состава лекарственных средств]() | Анна Воронина | [https://github.com/PytUs/OTUS-2020-2021](https://github.com/PytUs/OTUS-2020-2021-month-1-ex.1-/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0) |
 | [Обработка данных из потокового API](https://docs.google.com/presentation/d/1JjHcKNyDOy4jnSQw1-xt92bazagvuRvCoiSzFEkOiIU/edit#slide=id.p) | Семен Филькин | https://github.com/Filkin-S/streaming-api-processing |
 | [Загрузка данных о полётах из API аэропорта Schiphol в БД Elasticsearch](https://github.com/Aytuar/DEproject/blob/main/presentaion.pdf) | Айтуар Сабирзянов | https://github.com/Aytuar/DEproject |
+| [Анализ тональности текста в режиме реального времени с помощью Spark]() | Юлия | |
 | [DWH for London transport system data]() | Татьяна Линник |  |
-| [Анализ тональности текста в режиме реального времени с помощью Spark]() | Юлия |  |
 
 
 ## DE-2020-08
@@ -57,8 +57,13 @@
 | Тема  | Автор | Ссылка |
 | ----- | ----- |------- |
 | Разработка приложения Kafka Input Handler, загрузка данных в первичный слой платформы по работе с большими данными | Дмитрий Габидуллин | https://github.com/dgabidullin/kih |
-| Реализация элементов Raw-слоя Data Lake на примере загрузки данных Wikipedia Stream с помощью Kafka & Airflow в S3 Object Storage | Михаил Сеткин | https://gitlab.com/msetkin/otus_thesis_project |
-| F1 Retrospective DB - Анализ гонок серии Формула 1 | Алексей Шевелев | https://github.com/Shevelsm/f1-retrospective-data |
+| Реализация элементов Raw-слоя Data Lake на примере загрузки данных Wikipedia Stream с помощью Kafka & NiFi в S3 Object Storage | Михаил Сеткин | https://gitlab.com/msetkin/otus_thesis_project |
+| Ретроспективные данные гонок класса Формула 1 | Алексей Шевелев | https://github.com/Shevelsm/f1-retrospective-data |
+| Сервис для прогнозирования курсов валют и анализа валютных сделок | Сергей Грибков | https://github.com/gribkov-s/Currency_trading_service |
+| Обработка и отслеживание данных о телепросмотре | Бурнаева Ольга | https://github.com/oliallburn/otus_diploma |
+| Потоковая обработка данных о движении ИСЗ | Морозова Мария | https://github.com/MorozovaMariya/de_diplom |
+| Анализ сезонных факторов, влияющих на рынок аренды велосипедов | Евстафьев Андрей | https://github.com/achicha/otus-de-2020-02/tree/master/final_project |
+| Система анализа продаж с использованием машинного обучения | Петухов Павел | https://github.com/Paul4850/data-engineer/tree/master/ClickSales |
 
 
 ## DE-2019-11
