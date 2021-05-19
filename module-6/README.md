@@ -28,10 +28,11 @@
 
 ## DE-2020-11
 
-| Тема | Автор | Ссылка |
-| ---- | ----- | ------ |
-| [Serverless решение для сбора статистики эффективности рекламных кампаний на GCP](https://drive.google.com/file/d/1G_dUpkUBI_mu4KzsHvH_XTAx8dHxvblA/view?usp=sharing) | Андрей Шейко | |
-| [Визуализация геоданных проектов сервисного обслуживания]() | Анастасия Шемет | |
+| Тема  | Автор | Ссылка |
+| ----- | ----- |------- |
+| [Приложение для аналитики рынка ценных бумаг](https://drive.google.com/file/d/1MucmGsb_3-cYwgudEtVt_jCQ-F1RQk8d/view?usp=sharing) | Александр Орловский | https://github.com/moofik/stock-market-analytics |
+| [Serverless решение для сбора статистики эффективности рекламных кампаний на GCP](https://drive.google.com/file/d/1G_dUpkUBI_mu4KzsHvH_XTAx8dHxvblA/view?usp=sharing) | Андрей Шейко |  |
+| [Визуализация геоданных проектов сервисного обслуживания]() | Анастасия Шемет |  |
 | [Изучение набора данных в JupiterLab (PySpark), последующая загрузка и построение витрин в СУБД Vertica с помощью Data Build Tool, визуализация в Redash]() | Андрей Радченко | https://github.com/radchenkoam/OTUS-de-2020-11/blob/dev/homeworks/gw.md |
 | [Анализ химического состава лекарственных средств]() | Анна Воронина | [https://github.com/PytUs/OTUS-2020-2021](https://github.com/PytUs/OTUS-2020-2021-month-1-ex.1-/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0) |
 | [Обработка данных из потокового API](https://docs.google.com/presentation/d/1JjHcKNyDOy4jnSQw1-xt92bazagvuRvCoiSzFEkOiIU/edit#slide=id.p) | Семен Филькин | https://github.com/Filkin-S/streaming-api-processing |
